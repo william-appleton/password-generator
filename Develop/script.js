@@ -25,9 +25,9 @@ function createPassword () {
       return;
     } 
   
-  //Place holder array for character options based on input:
+  //Placeholder array for character options based on input:
   let chosenChar = []
-  //Place holder array for final Password
+  //Placeholder array for final password:
   let finalPass = []
 
   //Conditionals for options to add different character types:
